@@ -14,7 +14,9 @@ These blog posts helped me understand Neural Networks with backprop
    
    These papers will give deep understand of Neural Networks with Backpropagation
    
-   Yann Lecun, \`[Efficient Backprop](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)\`
+   Yann Lecun, [Efficient Backprop](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
+   
+   Andrew Task, [A Neural Network in 13 lines of Python with Gradient Decent](https://iamtrask.github.io/2015/07/27/python-network-part2/)
    
  **2. [Convolutional Neural Networks (CNN)](2_Convolutional_Neural_Networks)**
  
