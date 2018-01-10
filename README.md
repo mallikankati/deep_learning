@@ -8,6 +8,8 @@ These blog posts helped me understand Neural Networks with backprop
 
 [Michael Nielsen Free Book](http://neuralnetworksanddeeplearning.com/) on Neural Networks and Deep Learning
 
+[Deep Learning Book](http://www.deeplearningbook.org/)
+
  **1. [Artificial Neural Networks (ANN)](1_Artificial_Neural_Networks)**
  
  **2. [Convolutional Neural Networks (CNN)](2_Convolutional_Neural_Networks)**
